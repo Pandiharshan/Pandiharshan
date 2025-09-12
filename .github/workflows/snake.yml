@@ -1,0 +1,43 @@
+name: Generate GitHub-snake
+
+on:
+  schedule:
+    # runs once per day at 02:00 UTC (change if you want different time)
+    - cron: '0 2 * * *'
+  workflow_dispatch:   # allows manual run from Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Generate snake SVG / GIF
+        uses: Platane/snk@v3
+        with:
+          # the user whose contributions will be read; using repo owner (profile repo)
+          github_user_name: ${{ github.repository_owner }}
+          # list of outputs to generate (one per line)
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Commit generated files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update github-snake images"
+          file_pattern: "dist/*"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
