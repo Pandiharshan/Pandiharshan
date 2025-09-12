@@ -47,6 +47,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pandiharshan&theme=radical&margin-w=15&margin-h=15&column=7" />
+</p>
 
 ## 📊 GitHub Analytics
 
