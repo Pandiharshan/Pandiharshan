@@ -3,8 +3,12 @@
 <h3 align="center">🚀 Competitive Programmer | Full Stack Developer | Data Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Problem+Solver+💡;Full+Stack+Developer+🌐;Open+Source+Contributor+🤝;Tech+Explorer+🚀" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=Pandiharshan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/Pandiharshan?tab=followers">
+    <img src="https://img.shields.io/github/followers/Pandiharshan?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
 </p>
+
 
 ---
 
