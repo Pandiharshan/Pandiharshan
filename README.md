@@ -1,12 +1,16 @@
 <!-- Header with Typing Animation + GIF -->
 <h1 align="center">👋 Hey, I'm Pandi Harshan K</h1>
-<h3 align="center">🚀 Competitive Programmer | Full Stack Developer | Data Enthusiast</h3>
+
+<p align="center">
+  <!-- Typing SVG -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Competitive+Programmer;🌐+Full+Stack+Developer;📊+Data+Enthusiast;🤝+Open+Source+Contributor;📚+Always+Learning+New+Things&font=Fira+Code&center=true&width=600&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
 
 <p align="center">
   <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
-  <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+🌐;Competitive+Programmer+💡;Open+Source+Contributor+🤝;Always+Learning+📚;Tech+Explorer+🚀" alt="Typing SVG" />
 </p>
-
 ---
 
 ## 💫 About Me  
