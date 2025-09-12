@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Competitive Programmer | Full Stack Developer | Data Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=500&lines=Problem+Solver+💡;Full+Stack+Developer+🌐;Open+Source+Contributor+🤝;Tech+Explorer+🚀" alt="Typing SVG" />
+  <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Problem+Solver+💡;Full+Stack+Developer+🌐;Open+Source+Contributor+🤝;Tech+Explorer+🚀" alt="Typing SVG" />
 </p>
 
 ---
