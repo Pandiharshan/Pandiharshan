@@ -1,17 +1,13 @@
 <!-- Header with Typing Animation + GIF -->
 <h1 align="center">👋 Hey, I'm Pandi Harshan K</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Data+Scientist;Machine+Learning+Engineer;Competitive+Programmer)](https://git.io/typing-svg)
+
 <p align="center">
-  <!-- Typing SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Competitive+Programmer;🌐+Full+Stack+Developer;📊+Data+Enthusiast;🤝+Open+Source+Contributor;📚+Always+Learning+New+Things&font=Fira+Code&center=true&width=600&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" />
   </a>
-
-![Harshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandiharshan&show_icons=true&theme=radical)
-
 </p>
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
@@ -34,10 +30,6 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-## 📊 GitHub Stats
-![Harshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandiharshan&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandiharshan&layout=compact&theme=radical)
 
 **Databases & Tools**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -69,8 +61,8 @@
   <a href="https://leetcode.com/u/Pandiharshan/">
     <img src="https://img.shields.io/badge/LeetCode-Pandiharshan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://codolio.com/profile/shyamblu">
-    <img src="https://img.shields.io/badge/Codelio-ShyamBlue-2c3e50?style=for-the-badge"/>
+  <a href="https://codolio.com/profile/Pandiharshan">
+    <img src="https://img.shields.io/badge/Codolio-Pandiharshan-2c3e50?style=for-the-badge"/>
   </a>
 </p>
 
