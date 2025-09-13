@@ -86,11 +86,8 @@
 </p>
 
 ---
-
-## 🐍 Fun Animation  
-
 <p align="center">
-  <img src="https://github.com/Pandiharshan/Pandiharshan/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  ![snake gif](https://github.com/Pandiharshan/Pandiharshan/blob/output/github-snake-dark.svg)
 </p>
 
 ---
