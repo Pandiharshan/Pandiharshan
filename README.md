@@ -87,7 +87,7 @@
 
 ---
 <div align="center">
-  ![snake gif](https://github.com/Pandiharshan/Pandiharshan/github-snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/Pandiharshan/Pandiharshan/output/github-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
