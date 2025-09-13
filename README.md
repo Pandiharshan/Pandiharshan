@@ -1,12 +1,13 @@
 <!-- Header with Typing Animation + GIF -->
 <h1 align="center">👋 Hey, I'm Pandi Harshan K</h1>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Data+Scientist;Machine+Learning+Engineer;Competitive+Programmer)](https://git.io/typing-svg)
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Competitive+Programmer;🌐+Full+Stack+Developer;📊+Data+Enthusiast;🤝+Open+Source+Contributor;📚+Always+Learning+New+Things&font=Fira+Code&center=true&width=600&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" />
   </a>
 
+![Harshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandiharshan&show_icons=true&theme=radical)
 
 </p>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
