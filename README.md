@@ -1,10 +1,8 @@
-<!-- Header with Typing Animation + GIF -->
 <h1 align="center">👋 Hey, I'm Pandi Harshan K</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pandiharshan/Pandiharshan/main/assets/penguin.gif" width="400" alt="Penguin AI Gif"/>
+  <img src="https://raw.githubusercontent.com/Pandiharshan/Pandiharshan/main/assets/Penguins.gif" width="400" alt="Penguin AI Gif"/>
 </p>
----
 
 ## 💫 About Me  
 🎓 3rd-year **B.E. CSE Student** passionate about building impactful projects  
