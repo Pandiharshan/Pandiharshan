@@ -1,10 +1,7 @@
 # 👋 Hey, I'm Pandi Harshan K
 
-<div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap; margin-bottom: 40px;">
-
-<div style="flex: 1; min-width: 300px;">
-
-## About Me
+Artificial Intelligence & Machine Learning Student
+<img align="right" width="370" height="250" src="https://raw.githubusercontent.com/Pandiharshan/Pandiharshan/main/assets/Penguins.gif">                                             
 
 - 🎯 **3rd-year B.E. CSE Student** specializing in **Artificial Intelligence & Machine Learning**  
 - ⚡ **Skills:** MERN Stack, Data Science, Competitive Programming  
@@ -12,22 +9,6 @@
 - ✅ **Achievements:** Solved 600+ problems across CodeChef, LeetCode & Codolio  
 - 📚 **Learning Philosophy:** 1 problem a day, every day  
 - 🎮 **Fun Fact:** Gaming enthusiast & fascinated by AI in games  
-
-</div>
-
-<div style="flex: 1; min-width: 250px; text-align: center;">
-  <img src="https://raw.githubusercontent.com/Pandiharshan/Pandiharshan/main/assets/Penguins.gif" width="250" alt="Penguin AI Gif" style="border-radius: 12px;"/>
-</div>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Pandiharshan/Pandiharshan/output/github-snake-dark.svg" alt="snake animation" />
-</div>
-
----
 
 ## 🛠️ Tech Stack  
 
@@ -48,6 +29,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </div>
+---
+
+
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pandi-harshan-k-13962b2a5/"><img src="https://img.shields.io/badge/LinkedIn-Pandi%20Harshan%20K-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/></a>
+</p>
 
 ## 📊 GitHub Analytics  
 
@@ -78,6 +68,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pandiharshan/Pandiharshan/output/github-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
 ## 🚀 Projects  
 
 ### 🔹 [Snowman Project](https://github.com/Pandiharshan/Snowman)  
@@ -93,13 +89,4 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-
----
-
-## 📫 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pandi-harshan-k-13962b2a5/"><img src="https://img.shields.io/badge/LinkedIn-Pandi%20Harshan%20K-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/></a>
 </p>
