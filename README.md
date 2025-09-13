@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hey, I'm Pandi Harshan K</h1>
 
 <p align="center">
-  <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="400"/>
 </p>
 
 ---
