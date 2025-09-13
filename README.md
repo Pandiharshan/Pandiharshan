@@ -86,9 +86,9 @@
 </p>
 
 ---
-<p align="center">
+<div align="center">
   ![snake gif](https://github.com/Pandiharshan/Pandiharshan/blob/output/github-snake-dark.svg)
-</p>
+</div>
 
 ---
 
