@@ -37,9 +37,17 @@ Artificial Intelligence & Machine Learning Student
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pandi-harshan-k-13962b2a5/"><img src="https://img.shields.io/badge/LinkedIn-Pandi%20Harshan%20K-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/pandi-harshan-k-13962b2a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pandi%20Harshan%20K-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://codolio.com/profile/shyamblu">
+    <img src="https://img.shields.io/badge/Codolio-Pandi%20Harshan-KO6?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:shyamblu12032005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
+
 
 ## 📊 GitHub Analytics  
 
