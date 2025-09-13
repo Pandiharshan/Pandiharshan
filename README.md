@@ -29,6 +29,8 @@ Artificial Intelligence & Machine Learning Student
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </div>
+
+
 ---
 
 
@@ -65,6 +67,14 @@ Artificial Intelligence & Machine Learning Student
     <img src="https://img.shields.io/badge/Codolio-Pandiharshan-2c3e50?style=for-the-badge"/>
   </a>
 </p>
+
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdasharaf07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
+  
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Pandiharshan?theme=dark&font=Cantora%20One&ext=heatmap)](https://leetcode.com/u/Pandiharshan/)
+
+[![CodeChef Stats](https://codechef-readme-stats.onrender.com/shyamlu?v=1)](https://www.codechef.com/users/shyamlu)
 
 ---
 
