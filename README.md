@@ -1,12 +1,12 @@
 # 👋 Hey, I'm Pandi Harshan K
 
-<div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
+<div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap; margin-bottom: 40px;">
 
 <div style="flex: 1; min-width: 300px;">
 
 ## About Me
 
-- 🎯 **3rd-year B.E. CSE Student** passionate about building impactful projects  
+- 🎯 **3rd-year B.E. CSE Student** specializing in **Artificial Intelligence & Machine Learning**  
 - ⚡ **Skills:** MERN Stack, Data Science, Competitive Programming  
 - 🌱 **Exploring:** System Design & Machine Learning  
 - ✅ **Achievements:** Solved 600+ problems across CodeChef, LeetCode & Codolio  
@@ -22,27 +22,32 @@
 </div>
 
 ---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Pandiharshan/Pandiharshan/output/github-snake-dark.svg" alt="snake animation" />
 </div>
+
 ---
+
 ## 🛠️ Tech Stack  
 
-**Languages & Frameworks**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px; align-items: center;">
+  <strong>Languages & Frameworks:</strong>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</div>
 
-**Databases & Tools**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <strong>Databases & Tools:</strong>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</div>
 
 ## 📊 GitHub Analytics  
 
