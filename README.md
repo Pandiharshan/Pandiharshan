@@ -20,7 +20,10 @@
 🎮 Fun fact: I love **gaming & AI in games**  
 
 ---
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pandiharshan/Pandiharshan/output/github-snake-dark.svg" alt="snake animation" />
+</div>
+---
 ## 🛠️ Tech Stack  
 
 **Languages & Frameworks**  
@@ -84,11 +87,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
-
----
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Pandiharshan/Pandiharshan/output/github-snake-dark.svg" alt="snake animation" />
-</div>
 
 ---
 
