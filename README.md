@@ -1,16 +1,25 @@
-<h1 align="center">👋 Hey, I'm Pandi Harshan K</h1>
+# 👋 Hey, I'm Pandi Harshan K
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pandiharshan/Pandiharshan/main/assets/Penguins.gif" width="200" alt="Penguin AI Gif"/>
-</p>
+<div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
 
-## 💫 About Me  
-🎓 3rd-year **B.E. CSE Student** passionate about building impactful projects  
-💻 Skilled in **MERN Stack, Data Science, and Competitive Programming**  
-🚀 Currently exploring **System Design & Machine Learning**  
-📈 Solved 600+ problems across platforms (CodeChef | LeetCode | Codolio)  
-🌱 Learning every day with my **1 problem a day philosophy**  
-🎮 Fun fact: I love **gaming & AI in games**  
+<div style="flex: 1; min-width: 300px;">
+
+## About Me
+
+- 🎯 **3rd-year B.E. CSE Student** passionate about building impactful projects  
+- ⚡ **Skills:** MERN Stack, Data Science, Competitive Programming  
+- 🌱 **Exploring:** System Design & Machine Learning  
+- ✅ **Achievements:** Solved 600+ problems across CodeChef, LeetCode & Codolio  
+- 📚 **Learning Philosophy:** 1 problem a day, every day  
+- 🎮 **Fun Fact:** Gaming enthusiast & fascinated by AI in games  
+
+</div>
+
+<div style="flex: 1; min-width: 250px; text-align: center;">
+  <img src="https://raw.githubusercontent.com/Pandiharshan/Pandiharshan/main/assets/Penguins.gif" width="250" alt="Penguin AI Gif" style="border-radius: 12px;"/>
+</div>
+
+</div>
 
 ---
 <div align="center">
