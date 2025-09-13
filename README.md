@@ -1,12 +1,12 @@
 <!-- Header with Typing Animation + GIF -->
 <h1 align="center">👋 Hey, I'm Pandi Harshan K</h1>
 
-----
-</div>
-<div align="center">
- <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</div>
+<p align="center">
+  <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
+
 ---
+
 ## 💫 About Me  
 🎓 3rd-year **B.E. CSE Student** passionate about building impactful projects  
 💻 Skilled in **MERN Stack, Data Science, and Competitive Programming**  
