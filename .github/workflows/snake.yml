@@ -1,43 +1,97 @@
-name: Generate GitHub-snake
+name: GitHub Snake Game
+
+
 
 on:
+
+  # Schedule the workflow to run daily at midnight UTC
+
   schedule:
-    # runs once per day at 02:00 UTC (change if you want different time)
-    - cron: '0 2 * * *'
-  workflow_dispatch:   # allows manual run from Actions tab
+
+    - cron: "0 0 * * *"
+
+
+
+  # Allow manual triggering of the workflow
+
+  workflow_dispatch:
+
+
+
+  # Trigger the workflow on pushes to the main branch
+
   push:
+
     branches:
+
       - main
 
+
+
 jobs:
-  generate-snake:
+
+  generate:
+
     runs-on: ubuntu-latest
+
+    timeout-minutes: 10
+
+
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18'
+      # Step 1: Checkout the repository
 
-      - name: Generate snake SVG / GIF
+      - name: Checkout Repository
+
+        uses: actions/checkout@v3
+
+
+
+      # Step 2: Generate the snake animations
+
+      - name: Generate GitHub Contributions Snake Animations
+
         uses: Platane/snk@v3
-        with:
-          # the user whose contributions will be read; using repo owner (profile repo)
-          github_user_name: ${{ github.repository_owner }}
-          # list of outputs to generate (one per line)
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/github-ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Commit generated files
-        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "chore: update github-snake images"
-          file_pattern: "dist/*"
+
+          # GitHub username to generate the animation for
+
+          github_user_name: ${{ github.repository_owner }}
+
+
+
+          # Define the output files and their configurations
+
+          outputs: |
+
+            dist/github-snake.svg
+
+            dist/github-snake-dark.svg?palette=github-dark
+
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
         env:
+
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+
+      # Step 3: Deploy the generated files to the 'output' branch
+
+      - name: Deploy to Output Branch
+
+        uses: peaceiris/actions-gh-pages@v3
+
+        with:
+
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+          publish_dir: ./dist
+
+          publish_branch: output
+
+          # Optionally, you can set a custom commit message
+
+          commit_message: "Update snake animation [skip ci]"
