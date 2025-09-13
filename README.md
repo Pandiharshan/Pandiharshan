@@ -6,6 +6,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Competitive+Programmer;🌐+Full+Stack+Developer;📊+Data+Enthusiast;🤝+Open+Source+Contributor;📚+Always+Learning+New+Things&font=Fira+Code&center=true&width=600&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" />
   </a>
+
+
 </p>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
