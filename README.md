@@ -2,9 +2,8 @@
 <h1 align="center">👋 Hey, I'm Pandi Harshan K</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/Pandiharshan/Pandiharshan/main/assets/penguin.gif" width="400" alt="Penguin AI Gif"/>
 </p>
-
 ---
 
 ## 💫 About Me  
