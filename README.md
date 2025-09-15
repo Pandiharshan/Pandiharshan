@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Pandi Harshan K
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Pandi+Harshan)](https://git.io/typing-svg)
 Artificial Intelligence & Machine Learning Student
 <img align="right" width="370" height="250" src="https://raw.githubusercontent.com/Pandiharshan/Pandiharshan/main/assets/Penguins.gif">                                             
 
