@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Pandi Harshan K
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=8060&pause=1000&width=435&lines=Arificial+Intelligence+Machine+Learning+Student)](https://git.io/typing-svg)
-Artificial Intelligence & Machine Learning Student
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&fontWeight=600&size=24&letterSpacing=1&duration=4000&pause=1000&color=F7F7F7&background=0A0A0A&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=80&lines=Artificial+Intelligence+%26+Machine+Learning+Student)](https://git.io/typing-svg)
+
 <img align="right" width="370" height="250" src="https://raw.githubusercontent.com/Pandiharshan/Pandiharshan/main/assets/Penguins.gif">                                             
 
 - 🎯 **3rd-year B.E. CSE Student** specializing in **Artificial Intelligence & Machine Learning**  
