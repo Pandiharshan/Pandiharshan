@@ -81,7 +81,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Pandiharshan/Pandiharshan/output/github-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Pandiharshan/Pandiharshan/.github/workflows/github-snake-dark.svg" alt="snake animation" />   
 </div>
 
 ---
