@@ -65,7 +65,7 @@
 ## 🏆 Competitive Programming  
 
 <p align="center">
-  <a href="https://www.codechef.com/users/pandiharshan">
+  <a href="https://www.codechef.com/users/shyamlu">
     <img src="https://img.shields.io/badge/CodeChef-Pandiharshan-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Pandiharshan/">
