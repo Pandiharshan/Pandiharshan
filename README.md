@@ -6,7 +6,7 @@
 - 🎯 **3rd-year B.E. CSE Student** specializing in **Artificial Intelligence & Machine Learning**  
 - ⚡ **Skills:** MERN Stack, Data Science, Competitive Programming  
 - 🌱 **Exploring:** System Design & Machine Learning  
-- ✅ **Achievements:** Solved 600+ problems across CodeChef, LeetCode & Codolio  
+- ✅ **Achievements:** Solved 1000+ problems across CodeChef, LeetCode & Codolio  
 - 📚 **Learning Philosophy:** 1 problem a day, every day  
 - 🎮 **Fun Fact:** Gaming enthusiast & fascinated by AI in games  
 
