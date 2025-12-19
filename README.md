@@ -64,7 +64,6 @@
   <sub>⚡ Live GitHub data • Auto-updated • Trusted by recruiters</sub>
 </p>
 
-
 ---
 ## 🏆 Competitive Programming  
 
@@ -85,6 +84,13 @@
 ---
 
 ## 🚀 Projects  
+
+### 🔹 [Smart Desk Assistant](https://github.com/Pandiharshan/Smart-Desk-Assistant)  
+💡 Android app for monitoring and controlling desk lighting conditions  
+[![CI/CD](https://github.com/Pandiharshan/Smart-Desk-Assistant/actions/workflows/android-ci.yml/badge.svg)](https://github.com/Pandiharshan/Smart-Desk-Assistant/actions/workflows/android-ci.yml)
+[![License](https://img.shields.io/github/license/Pandiharshan/Smart-Desk-Assistant?color=blue)](https://github.com/Pandiharshan/Smart-Desk-Assistant/blob/main/LICENSE)  
+⚙️ Built with **Kotlin, Jetpack Compose, and AndroidX**  
+🔌 Features real-time light monitoring and customizable alerts  
 
 ### 🔹 [Snowman Project](https://github.com/Pandiharshan/Snowman)  
 ❄️ Creative interactive snowman with **JavaScript & CSS animations**  
