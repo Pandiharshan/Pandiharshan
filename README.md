@@ -10,29 +10,29 @@
 - 📚 **Learning Philosophy:** 1 problem a day, every day  
 - 🎮 **Fun Fact:** Gaming enthusiast & fascinated by AI in games  
 
+---
+
 ## 🛠️ Tech Stack  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px; align-items: center;">
   <strong>Languages & Frameworks:</strong>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <strong>Databases & Tools:</strong>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </div>
 
-
 ---
-
 
 ## 📫 Connect With Me  
 
@@ -41,15 +41,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-Pandi%20Harshan%20K-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://codolio.com/profile/shyamblu">
-    <img src="https://img.shields.io/badge/Codolio-Pandi%20Harshan-KO6?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Codolio-Pandi%20Harshan-black?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:shyamblu12032005@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
+---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Contributions & Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pandiharshan&show_icons=true&theme=radical&border_radius=10" height="150"/>
@@ -57,7 +58,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandiharshan&layout=compact&theme=radical&border_radius=10" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pandiharshan&theme=redical&hide_border=true&area=true"/>
+</p>
+
+<p align="center">
+  <sub>⚡ Consistent daily commits • Building projects • Learning by shipping</sub>
 </p>
 
 ---
@@ -73,10 +78,6 @@
   </a>
 </p>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdasharaf07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
-  
 ---
 
 ## 🚀 Projects  
@@ -93,5 +94,5 @@
 ## ✍️ Dev Quotes  
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
