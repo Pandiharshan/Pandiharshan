@@ -51,19 +51,19 @@
 ---
 
 ## 📊 GitHub Contributions & Analytics  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pandiharshan&show_icons=true&theme=radical&border_radius=10"/>
   <img src="https://streak-stats.demolab.com?user=Pandiharshan&theme=radical&border_radius=10"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pandiharshan&theme=redical&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pandiharshan&theme=radical&hide_border=true&area=true"/>
 </p>
 
 <p align="center">
   <sub>⚡ Live GitHub data • Auto-updated • Trusted by recruiters</sub>
 </p>
+
 
 ---
 ## 🏆 Competitive Programming  
