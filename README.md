@@ -53,8 +53,8 @@
 ## 📊 GitHub Contributions & Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pandiharshan&show_icons=true&theme=radical&border_radius=10" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Pandiharshan&theme=radical&border_radius=10" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pandiharshan&show_icons=true&theme=radical&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=Pandiharshan&theme=radical&border_radius=10"/>
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <sub>⚡ Consistent daily commits • Building projects • Learning by shipping</sub>
+  <sub>⚡ Live GitHub data • Auto-updated • Trusted by recruiters</sub>
 </p>
 
 ---
