@@ -6,7 +6,7 @@
 - 🎯 **3rd-year B.E. CSE Student** specializing in **Artificial Intelligence & Machine Learning**  
 - ⚡ **Skills:** MERN Stack, Data Science, Competitive Programming  
 - 🌱 **Exploring:** System Design & Machine Learning  
-- ✅ **Achievements:** Solved 1000+ problems across CodeChef, LeetCode & Codolio  
+- ✅ **Achievements:** Solved 1000+ problems across LeetCode, Codeforces & Codolio  
 - 📚 **Learning Philosophy:** 1 problem a day, every day  
 - 🎮 **Fun Fact:** Gaming enthusiast & fascinated by AI in games  
 
@@ -66,16 +66,20 @@
 </p>
 
 ---
-
 ## 🏆 Competitive Programming  
 
 <p align="center">
-  <a href="https://www.codechef.com/users/shyamlu">
-    <img src="https://img.shields.io/badge/CodeChef-Pandiharshan-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Pandiharshan/">
-    <img src="https://img.shields.io/badge/LeetCode-Pandiharshan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+  <!-- LeetCode Solved + Heatmap -->
+  <img src="https://leetcard.jacoblin.cool/Pandiharshan?theme=dark&font=Fira%20Code&ext=heatmap" height="180"/>
+</p>
+
+<p align="center">
+  <!-- Codeforces Rating -->
+  <img src="https://cp-logo.vercel.app/codeforces/Pandiharshan?logo=true"/>
+</p>
+
+<p align="center">
+  <sub>⚡ Live problems solved • Contest activity • Auto-updated</sub>
 </p>
 
 ---
