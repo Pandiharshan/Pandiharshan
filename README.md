@@ -53,16 +53,6 @@
 ## 🌌 GitHub Activity & Impact
 
 <div align="center">
-
-<img 
-  width="48%" 
-  src="https://github-readme-stats.vercel.app/api?username=Pandiharshan&show_icons=true&theme=tokyonight" 
-/>
-<img 
-  width="48%" 
-  src="https://github-readme-streak-stats.herokuapp.com?user=Pandiharshan&theme=tokyonight" 
-/>
-
 <br/><br/>
 
 <img 
