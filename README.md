@@ -50,36 +50,112 @@
 
 ---
 
-## 📊 GitHub Contributions & Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pandiharshan&show_icons=true&theme=radical&border_radius=10"/>
-  <img src="https://streak-stats.demolab.com?user=Pandiharshan&theme=radical&border_radius=10"/>
-</p>
+## 🌌 GitHub Activity & Impact
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pandiharshan&theme=radical&hide_border=true&area=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <sub>⚡ Live GitHub data • Auto-updated • Trusted by recruiters</sub>
-</p>
+<br/><br/>
+
+<img 
+  src="./profile-3d-contrib/profile-night-view.svg" 
+  width="100%" 
+  alt="3D GitHub Contribution Graph" 
+/>
+
+<br/><br/>
+
+<sub>Consistent contributions • Long-term discipline</sub>
+
+</div>
+
 
 ---
-## 🏆 Competitive Programming  
+# 🚀 Competitive Programming Stats
 
-<p align="center">
-  <!-- LeetCode Solved + Heatmap -->
-  <img src="https://leetcard.jacoblin.cool/Pandiharshan?theme=dark&font=Fira%20Code&ext=heatmap" height="180"/>
-</p>
+<table>
+<tr>
 
-<p align="center">
-  <!-- Codeforces Rating -->
-  <img src="https://cp-logo.vercel.app/codeforces/Pandiharshan?logo=true"/>
-</p>
+<!-- ================= LEETCODE ================= -->
+<td width="33%" valign="top">
 
-<p align="center">
-  <sub>⚡ Live problems solved • Contest activity • Auto-updated</sub>
-</p>
+### 📊 LeetCode
+
+<a href="https://leetcode.com/u/Pandiharshan/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/Pandiharshan?theme=dark&font=Ubuntu&ext=heatmap" width="100%" />
+</a>
+<br/><br/>
+<a href="https://leetcode.com/u/Pandiharshan/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+</td>
+
+<!-- ================= CODECHEF ================= -->
+<td width="33%" valign="top">
+
+### 🏆 CodeChef
+
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://img.shields.io/badge/Problems_Solved-916-20C997?style=for-the-badge&logo=codechef&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Max_Rating-1667-FFD93D?style=for-the-badge&logo=codechef&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Current_Rating-1667-FFA94D?style=for-the-badge&logo=codechef&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Global_Rank-11031-4F46E5?style=for-the-badge" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Country_Rank-9748-51CF66?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Contests-82-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Division-Div_2-A29BFE?style=for-the-badge&logo=codechef&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://img.shields.io/badge/Badges-3×_Gold-F9C74F?style=for-the-badge&logo=codechef&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+<a href="https://www.codechef.com/users/shyamlu" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef_Profile-shyamlu-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+</td>
+
+<!-- ================= CODEFORCES ================= -->
+<td width="33%" valign="top">
+
+### 💡 Codeforces
+
+<a href="https://codeforces.com/profile/Pandiharshan" target="_blank">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Pandiharshan&theme=dark&show_icons=true" width="100%" />
+</a>
+<br/><br/>
+<a href="https://codeforces.com/profile/Pandiharshan" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces_Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
