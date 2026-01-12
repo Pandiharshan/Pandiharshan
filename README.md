@@ -1,14 +1,14 @@
 # 👋 Hey, I'm Pandi Harshan K
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&fontWeight=600&size=24&letterSpacing=1&duration=4000&pause=1000&color=F7F7F7&background=0A0A0A&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=80&lines=Artificial+Intelligence+%26+Machine+Learning+Student)](https://git.io/typing-svg)
 
-<img align="right" width="370" height="250" src="https://raw.githubusercontent.com/Pandiharshan/Pandiharshan/main/assets/Penguins.gif">                                             
+<img align="right" width="360" height="240" src="https://raw.githubusercontent.com/Pandiharshan/Pandiharshan/main/assets/Penguins.gif" style="margin-left: 20px; margin-top: 10px;">
 
-- 🎯 **3rd-year B.E. CSE Student** specializing in **Artificial Intelligence & Machine Learning**  
-- ⚡ **Skills:** MERN Stack, Data Science, Competitive Programming  
-- 🌱 **Exploring:** System Design & Machine Learning  
-- ✅ **Achievements:** Solved 1000+ problems across LeetCode, Codeforces & Codolio  
-- 📚 **Learning Philosophy:** 1 problem a day, every day  
-- 🎮 **Fun Fact:** Gaming enthusiast & fascinated by AI in games  
+- 3rd-year B.E. Computer Science Engineering student with a specialization in Artificial Intelligence & Machine Learning  
+- Core strengths include MERN Stack development, Data Science, and Competitive Programming  
+- Currently deepening knowledge in System Design and applied Machine Learning concepts  
+- Solved 1000+ algorithmic problems across LeetCode, Codeforces, and Codolio  
+- Strong belief in consistent learning through daily problem-solving  
+- Interested in game development and the application of AI in interactive systems  
 
 ---
 
@@ -179,5 +179,6 @@
 ## ✍️ Dev Quotes  
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
