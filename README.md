@@ -160,19 +160,36 @@
 
 ## 🚀 Projects  
 
-### 🔹 [Smart Desk Assistant](https://github.com/Pandiharshan/Smart-Desk-Assistant)  
-💡 Android app for monitoring and controlling desk lighting conditions  
-[![CI/CD](https://github.com/Pandiharshan/Smart-Desk-Assistant/actions/workflows/android-ci.yml/badge.svg)](https://github.com/Pandiharshan/Smart-Desk-Assistant/actions/workflows/android-ci.yml)
-[![License](https://img.shields.io/github/license/Pandiharshan/Smart-Desk-Assistant?color=blue)](https://github.com/Pandiharshan/Smart-Desk-Assistant/blob/main/LICENSE)  
-⚙️ Built with **Kotlin, Jetpack Compose, and AndroidX**  
-🔌 Features real-time light monitoring and customizable alerts  
+### 🤖 Meet Mogger AI  
+🧠 An AI-driven system focused on intelligent interaction and contextual response handling.  
+⚙️ Designed with modular architecture to support experimentation with machine learning and NLP techniques.  
+📌 Built with a strong emphasis on clean design, extensibility, and real-world AI problem solving.  
+🔗 https://github.com/Pandiharshan/Meet-Mogger-AI  
 
-### 🔹 [Snowman Project](https://github.com/Pandiharshan/Snowman)  
-❄️ Creative interactive snowman with **JavaScript & CSS animations**  
+---
 
-### 🔹 [Algorithm Visualizer](https://github.com/Pandiharshan/Algorithm-Visualizer)  
-🔍 Visualizes algorithms step-by-step  
-⚡ Built with **React & D3.js**  
+### ❄️ Snowman  
+🎓 An interactive learning platform focused on structured skill progression and consistent user engagement.  
+⚙️ Designed with a strong emphasis on user experience, performance, and scalable frontend architecture.  
+🧠 Encourages disciplined learning through intuitive flows, modular content structure, and progress-oriented design.  
+🔗 https://github.com/Pandiharshan/Snowman  
+
+---
+
+### 🧑‍💻 Smart Desk Assistant  
+💡 An Android application for monitoring and managing desk lighting conditions in real time.  
+⚙️ Built using Kotlin, Jetpack Compose, and AndroidX following modern Android development practices.  
+🔌 Supports environment-aware behavior with customizable alerts and controls.  
+🔗 https://github.com/Pandiharshan/Smart-Desk-Assistant  
+
+---
+
+### ⚡ EmergenX  
+🚨 An emergency-response oriented system aimed at improving coordination and decision-making using technology.  
+⚙️ Architected with scalability and real-world deployment considerations in mind.  
+📌 Currently under incremental development with a focus on reliability and system design.  
+🔗 https://github.com/Pandiharshan/EmergenX  
+
 
 ---
 
