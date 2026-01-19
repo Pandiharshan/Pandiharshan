@@ -164,7 +164,7 @@
 🧠 An AI-driven system focused on intelligent interaction and contextual response handling.  
 ⚙️ Designed with modular architecture to support experimentation with machine learning and NLP techniques.  
 📌 Built with a strong emphasis on clean design, extensibility, and real-world AI problem solving.  
-🔗 https://github.com/Pandiharshan/Meet-Mogger-AI  
+🔗 [https://github.com/Pandiharshan/Meet-Mogger-AI ](https://github.com/Pandiharshan/MeetMogger-AI) 
 
 ---
 
