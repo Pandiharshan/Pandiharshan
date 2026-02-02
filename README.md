@@ -102,7 +102,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Max_Rating-1664-FFD93D?style=for-the-badge&logo=codechef&logoColor=white" />
+      <img src="https://img.shields.io/badge/Max_Rating-1694-FFD93D?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Current_Rating-1694-FFA94D?style=for-the-badge&logo=codechef&logoColor=white" />
