@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px; align-items: center;">
   <strong>Languages & Frameworks:</strong>
@@ -34,7 +34,7 @@
 
 ---
 
-## 📫 Connect With Me  
+##  Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pandi-harshan-k-13962b2a5/">
@@ -50,7 +50,7 @@
 
 ---
 
-## 🌌 GitHub Activity & Impact
+##  GitHub Activity & Impact
 
 <div align="center">
 <br/><br/>
@@ -69,7 +69,7 @@
 
 
 ---
-# 🚀 Competitive Programming Stats
+#  Competitive Programming Stats
 
 <table>
 <tr>
@@ -77,7 +77,7 @@
 <!-- ================= LEETCODE ================= -->
 <td width="33%" valign="top">
 
-### 📊 LeetCode
+###  LeetCode
 
 <a href="https://leetcode.com/u/Pandiharshan/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/Pandiharshan?theme=dark&font=Ubuntu&ext=heatmap" width="100%" />
@@ -92,7 +92,7 @@
 <!-- ================= CODECHEF ================= -->
 <td width="33%" valign="top">
 
-### 🏆 CodeChef
+### CodeChef
 
 <table align="center">
   <tr>
@@ -141,7 +141,7 @@
 <!-- ================= CODEFORCES ================= -->
 <td width="33%" valign="top">
 
-### 💡 Codeforces
+###  Codeforces
 
 <a href="https://codeforces.com/profile/Pandiharshan" target="_blank">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Pandiharshan&theme=dark&show_icons=true" width="100%" />
@@ -158,42 +158,44 @@
 
 ---
 
-## 🚀 Projects  
+## Projects
 
-### 🤖 Meet Mogger AI  
-🧠 An AI-driven system focused on intelligent interaction and contextual response handling.  
-⚙️ Designed with modular architecture to support experimentation with machine learning and NLP techniques.  
-📌 Built with a strong emphasis on clean design, extensibility, and real-world AI problem solving.  
-🔗 [https://github.com/Pandiharshan/Meet-Mogger-AI ](https://github.com/Pandiharshan/MeetMogger-AI) 
-
----
-
-### ❄️ Snowman  
-🎓 An interactive learning platform focused on structured skill progression and consistent user engagement.  
-⚙️ Designed with a strong emphasis on user experience, performance, and scalable frontend architecture.  
-🧠 Encourages disciplined learning through intuitive flows, modular content structure, and progress-oriented design.  
-🔗 https://github.com/Pandiharshan/Snowman  
+### Campus Bus Buddy
+A smart mobile application designed to digitalize college bus transportation through real-time tracking and attendance management.  
+Built with a role-based architecture (Admin, Driver, Student) to ensure secure access, efficient monitoring, and smooth coordination.  
+Powered by Firebase Authentication and Firestore for secure login, real-time data synchronization, and a serverless backend.  
+Focused on solving real-world campus transportation challenges such as live bus tracking, QR-based attendance, absence planning, and centralized monitoring.  
+Designed with a modern, premium UI to deliver a clean, intuitive, and professional user experience.  
+https://github.com/Pandiharshan/bus_alert_system  
 
 ---
 
-### 🧑‍💻 Smart Desk Assistant  
-💡 An Android application for monitoring and managing desk lighting conditions in real time.  
-⚙️ Built using Kotlin, Jetpack Compose, and AndroidX following modern Android development practices.  
-🔌 Supports environment-aware behavior with customizable alerts and controls.  
-🔗 https://github.com/Pandiharshan/Smart-Desk-Assistant  
+### Meet Mogger AI
+An AI-driven system focused on intelligent interaction and contextual response handling.  
+Designed with a modular architecture to support experimentation with machine learning and natural language processing techniques.  
+Built with a strong emphasis on clean design, extensibility, and practical AI problem solving.  
+https://github.com/Pandiharshan/MeetMogger-AI  
 
 ---
 
-### ⚡ EmergenX  
-🚨 An emergency-response oriented system aimed at improving coordination and decision-making using technology.  
-⚙️ Architected with scalability and real-world deployment considerations in mind.  
-📌 Currently under incremental development with a focus on reliability and system design.  
-🔗 https://github.com/Pandiharshan/EmergenX  
+### Smart Desk Assistant
+An Android application for monitoring and managing desk lighting conditions in real time.  
+Built using Kotlin, Jetpack Compose, and AndroidX, following modern Android development best practices.  
+Supports environment-aware behavior with customizable alerts and intelligent controls for improved workspace efficiency.  
+https://github.com/Pandiharshan/Smart-Desk-Assistant  
+
+---
+
+### Snowman
+An interactive learning platform focused on structured skill progression and consistent user engagement.  
+Designed with a strong emphasis on user experience, performance, and scalable frontend architecture.  
+Encourages disciplined learning through intuitive workflows, modular content structure, and progress-oriented design.  
+https://github.com/Pandiharshan/Snowman  
 
 
 ---
 
-## ✍️ Dev Quotes  
+## Dev Quotes  
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
